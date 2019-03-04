@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ElasticsearchCrud" Version="2.4.1.1" />
+    <PackageReference Include="NEST" Version="6.5.0" />
+  </ItemGroup>
+
+</Project>
